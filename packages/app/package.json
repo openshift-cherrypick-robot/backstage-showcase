@@ -39,19 +39,19 @@
     "@emotion/react": "11.11.3",
     "@emotion/styled": "11.11.0",
     "@janus-idp/backstage-plugin-rbac-common": "1.2.1",
-    "@mui/icons-material": "5.15.6",
-    "@mui/lab": "5.0.0-alpha.162",
-    "@mui/material": "5.15.6",
+    "@mui/icons-material": "5.15.10",
+    "@mui/lab": "5.0.0-alpha.165",
+    "@mui/material": "5.15.10",
     "@scalprum/core": "0.7.0",
     "@scalprum/react-core": "0.7.1",
     "history": "5.3.0",
     "lodash": "4.17.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.21.3",
+    "react-router-dom": "6.22.1",
     "react-use": "17.5.0",
-    "swr": "2.2.4",
-    "tss-react": "4.9.3"
+    "swr": "2.2.5",
+    "tss-react": "4.9.4"
   },
   "devDependencies": {
     "@backstage/test-utils": "1.5.0",
@@ -62,9 +62,9 @@
     "@testing-library/react": "14.1.2",
     "@testing-library/react-hooks": "8.0.1",
     "@testing-library/user-event": "14.5.2",
-    "@types/node": "18.19.9",
-    "@types/react": "18.2.48",
-    "@types/react-dom": "18.2.18"
+    "@types/node": "18.19.17",
+    "@types/react": "18.2.57",
+    "@types/react-dom": "18.2.19"
   },
   "browserslist": {
     "production": [
